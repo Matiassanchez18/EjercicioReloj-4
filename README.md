@@ -1,4 +1,4 @@
-# Proyecto de Fecha y Reloj en Tiempo Real
+# Proyecto  de Fecha y Reloj en Tiempo Real
 
 Este es un proyecto simple en JavaScript que muestra la fecha y la hora actual en tiempo real en una página web.
 
